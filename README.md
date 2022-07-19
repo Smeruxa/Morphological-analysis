@@ -1,3 +1,3 @@
 Программа выполняет морфологический разбор на русском языке.
 Работает следующим образом:
-![image](https://user-images.githubusercontent.com/57842015/179671550-788882f8-d9ea-4025-96a5-e7c4cce93449.png)
+![image](https://user-images.githubusercontent.com/57842015/179671615-76dd84b1-aa19-49fa-b911-9c44b7d82731.png)
